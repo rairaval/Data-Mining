@@ -12,7 +12,7 @@ Algunas causas de la no normalidad:
 * distibuciones no normales, son formas no simetricas que no estan centradas en la media. Por ejemplo: La p(x) es mayor para valores menores de x.
 * Mayor masa en los extremos que la normal, problemas de curtosis. 
 
-Las tecnicas del Pre-procesamiento de datos tiene como por objetivo poder realizar buenos modelos. 
+Las tecnicas del Pre-procesamiento de datos tiene como por objetivo ser el insumo para llegar a 'buenos modelos'. 
 
 Algunas transformaciones podrian ser realizadas aplicando logartimos o estandarizando a cada una de las variables. 
 
