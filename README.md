@@ -14,5 +14,7 @@ Algunas causas de la no normalidad:
 
 Las tecnicas del Pre-procesamiento de datos tiene como por objetivo ser el insumo para llegar a 'buenos modelos'. 
 
-Algunas transformaciones podrian ser realizadas aplicando logartimos o estandarizando a cada una de las variables. 
+Algunas transformaciones podrian ser realizadas aplicando logartimos o estandarizando a cada una de las variables.
+
+Estado: Repo en proceso de elaboración.
 
